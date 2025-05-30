@@ -1,7 +1,4 @@
-# CS421: Natural Language Processing
-# University of Illinois at Chicago
-# Spring 2025
-# Assignment 1
+
 #
 # Do not rename/delete any functions or global variables provided in this template. Write your implementation
 # in the specified sections. Use the main function to test your code when running it from a terminal.
